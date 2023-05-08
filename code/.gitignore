@@ -104,7 +104,7 @@ dist
 .tern-port
 
 
-# Ignore this things
-/dist
-/node_modules
-package-lock.json
+# # Ignore this things
+# /dist
+# /node_modules
+# package-lock.json
